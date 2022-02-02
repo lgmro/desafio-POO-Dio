@@ -1,4 +1,4 @@
-package br.com.dio.desafio.dominio.Teste;
+package br.com.dio.desafio.Teste;
 
 import br.com.dio.desafio.dominio.Curso;
 import br.com.dio.desafio.dominio.Mentorias;
